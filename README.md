@@ -1,4 +1,4 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
     <head>
         <title>my page</title>
@@ -6,7 +6,7 @@
         
         <body>
             <hr>
-            <div align="center"style="background–colour:blue;">
+            <div align="center"style="background–color:blue;">
                             <ol style="colour:yellow;"><b><u>VITAMIN A,D,E,K</u></b>
                             </div>
                             
